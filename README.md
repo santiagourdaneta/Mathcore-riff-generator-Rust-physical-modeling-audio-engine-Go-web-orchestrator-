@@ -21,6 +21,16 @@ Este proyecto utiliza un motor de audio en **Rust** para simular la vibración d
 1. **Requisitos:** Tener instalados Rust (Cargo) y Go.
 2. **Clonar y Compilar:**
    ```bash
-   git clone [https://github.com/tu-usuario/lazarus-engine.git](https://github.com/tu-usuario/lazarus-engine.git)
-   cd lazarus-engine
+   git clone [https://github.com/santiagourdaneta/Mathcore-riff-generator-Rust-physical-modeling-audio-engine-Go-web-orchestrator-](https://github.com/santiagourdaneta/Mathcore-riff-generator-Rust-physical-modeling-audio-engine-Go-web-orchestrator-)
+   cd https://github.com/santiagourdaneta/Mathcore-riff-generator-Rust-physical-modeling-audio-engine-Go-web-orchestrator-
    cargo build
+
+Ejecutar:
+
+go run main.go
+
+Interfaz: Ve a http://localhost:8080 en tu navegador.
+
+📖 Lore
+
+Desarrollado como parte del proyecto narrativo Lazarus Graves. Cada vibración de la cuerda en Drop C representa una pulsación de la piedra hecha de fe.
