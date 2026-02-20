@@ -1,0 +1,29 @@
+# --- RUST ---
+# Carpeta de compilación de Rust (muy pesada)
+/target/
+
+# Archivos de bloqueo de dependencias
+Cargo.lock
+
+# --- GO ---
+# Binarios de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+main
+
+# --- AUDIO & OUTPUTS ---
+# No queremos subir los archivos generados
+*.wav
+*.mp3
+lazarus_log.txt
+config.json
+
+# --- IDEs & OS ---
+# Archivos de configuración de editores
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
